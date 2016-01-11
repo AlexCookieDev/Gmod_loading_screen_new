@@ -1,0 +1,11 @@
+{
+	"title"		:	"[NLS] New Loading Screen!",
+	"type"		:	"effects",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
